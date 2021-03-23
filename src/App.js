@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Form,Button,Navbar,Nav,FormControl } from 'react-bootstrap';
 function App() {
   return (
+    
     <div className="App">
       <header className="App-header">
         
@@ -19,6 +20,7 @@ function App() {
       <Button variant="outline-info">Search</Button>
     </Form>
   </Navbar>
+  
   </header>
   <h1> Welcome </h1>
        <Form className = "login">
@@ -41,7 +43,7 @@ function App() {
     Submit
   </Button>
 </Form>   
-     
+ 
     </div>
   );
 }

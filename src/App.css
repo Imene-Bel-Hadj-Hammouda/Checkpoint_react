@@ -1,7 +1,14 @@
+.App{
+ 
+
+width: 100% !important;
+height: 100% !important;
+}
 .login{
   margin-left: 500px;
   margin-right: 500px;
 }
 h1{
+  padding-top: 100px;
   text-align: center;
 }
